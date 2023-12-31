@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815644187338",
+    "project_id": "onesecapp-ea058",
+    "storage_bucket": "onesecapp-ea058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815644187338:android:bfbabb02d712dd871f7233",
+        "android_client_info": {
+          "package_name": "com.mycompany.onesecapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrZzC-5J4uYfuG-9OLoy0RubsbdPvYlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
